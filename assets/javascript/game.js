@@ -1,0 +1,2 @@
+var userGuess
+var computerGuess
